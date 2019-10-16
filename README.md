@@ -55,7 +55,7 @@ Project spec [here](https://inst.eecs.berkeley.edu/~cs61c/su19//projects/proj3-2
 
 ## Spring 2019  
 ### Spam or Ham - Python, scikit-learn, NumPy, matplotlib  
-I trained and implemented a logistic regression classification model to detect and mark spam emails from potentially malicious users. I first preprocessed the data and used exploratory data analysis techniques aand precision-recall quantifiers on the emails for feature selection. I then validated the model and minimized overfitting by performming k-fold cross validation on selected features to attain 88.1-90% classification accuracy.  
+I trained and implemented a logistic regression classification model to detect and mark spam emails from potentially malicious users. I first preprocessed the data and used exploratory data analysis techniques aand precision-recall quantifiers on the emails for feature selection. I then validated the model and minimized overfitting by performing k-fold cross validation on selected features to attain 88.1-90% classification accuracy.  
 
 ## Spring 2018
 ### Explorable Worlds Game - Java
