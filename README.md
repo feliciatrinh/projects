@@ -58,9 +58,7 @@ I designed and implemented a single-player 2D tile-based game where the objectiv
 This project helped introduce me to project development cycles.
 Project spec [here](https://sp18.datastructur.es/materials/proj/proj2/proj2).  
 
-![Some text]({{site.url}}{{site.baseurl}}/assets/img/hp_narrators.png)
-
-![Main Menu]({{site.url}}{{site.baseurl}}/resources/main-menu.png)
+![Main Menu](resources/main-menu.png){:class="img-responsive"}
 
 ![Seed Prompt]({{site.url}}{{site.baseurl}}/resources/seed-prompt.png)
 
