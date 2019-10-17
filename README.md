@@ -58,25 +58,15 @@ I designed and implemented a single-player 2D tile-based game where the objectiv
 This project helped introduce me to project development cycles.
 Project spec [here](https://sp18.datastructur.es/materials/proj/proj2/proj2).  
 
-<figure>
-	<img src="resources/main-menu.png" alt="Main Menu"/>
-	<figcaption>Main Menu</figcaption>
-</figure>
+![Some text]({{site.url}}{{site.baseurl}}/assets/img/hp_narrators.png)
 
-<figure>
-	<img src="resources/seed-prompt.png" alt="Seed Prompt"/>
-	<figcaption>Seed Prompt</figcaption>
-</figure>
+![Main Menu]({{site.url}}{{site.baseurl}}/resources/main-menu.png)
 
-<figure>
-	<img src="resources/begin-level.png" alt="Begin the Level"/>
-	<figcaption>Begin the Level</figcaption>
-</figure>
+![Seed Prompt]({{site.url}}{{site.baseurl}}/resources/seed-prompt.png)
 
-<figure>
-	<img src="resources/four-items.png" alt="Collected Items"/>
-	<figcaption>Collecting Items</figcaption>
-</figure>
+![Begin the Level]({{site.url}}{{site.baseurl}}/resources/begin-level.png)
+
+![Collected Items]({{site.url}}{{site.baseurl}}/resources/four-items.png)
 
 ### Bear Maps - Java
 I worked with real-world mapping data to complete the back end of a map application based off of Google Maps. The application supports scrolling, searching, and routing for locations in Berkeley.  
