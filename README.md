@@ -30,11 +30,13 @@ Because of concerns over plagarism, I am unable to post the code for these proje
 ### Database Systems - Java, B+ trees
 Over the course of the semester, I have been implementing a database system that will be able to support executing simple transactions in series. I've finished implementing a B+ tree index and efficient join algorithms (e.g. sort-merge join) so far. The next steps are query optimization, multigranilarity locking for concurrent execution of transactions, and database recovery.
 
+{%
 ### Computer Security - Golang
 I am designing and implementing a file sharing system (like Dropbox) that protects user privacy. In particular, user files are always encrypted and authenticated on the server. In addition, users can share files with each other.
 
 I will guarantee confidentiality and integrity where applicable using public key encrpytion (e.g. RSA), digital signatures, hash-based message authentication code (HMAC), and symmetric key encryption.
 Project spec [here](https://cs161.org/assets/projects/2/project2-problems.pdf).
+%}
 
 ## Summer 2019
 ### Convolutional Neural Networks - C, optimization, parallelism  
@@ -44,14 +46,6 @@ Project spec [here](https://inst.eecs.berkeley.edu/~cs61c/su19//projects/proj4/)
 ### Compiler - C, RISC-V
 I completed a basic compiler for a C like language that produced RISC-V. This project helped reinforce my understand of the relationship between C code and the assembly that implements it.  
 Project spec [here](https://inst.eecs.berkeley.edu/~cs61c/su19//projects/proj2/).
-
-### Flight Simulator - C, memory management
-I implemented a flight system that kept track of flights between series of airports using a linked list implementation. Each airport and its schedule of flights departing from it were represented as structs.  
-Project spec [here](https://inst.eecs.berkeley.edu/~cs61c/su19//projects/proj1/).
-
-### Datapath and Controls - CPU, Logisim  
-I implemented a 32-bit processor based on RISC-V using a design/simulation tool called Logisim. I then improved the processor by implementing a two-stage pipeline.  
-Project spec [here](https://inst.eecs.berkeley.edu/~cs61c/su19//projects/proj3-2/).  
 
 ## Spring 2019  
 ### Spam or Ham - Python, scikit-learn, NumPy, matplotlib  
@@ -63,6 +57,26 @@ I designed and implemented a single-player 2D tile-based game where the objectiv
 
 This project helped introduce me to project development cycles.
 Project spec [here](https://sp18.datastructur.es/materials/proj/proj2/proj2).  
+
+<figure>
+	<img src="resources/main-menu.png" alt="Main Menu"/>
+	<figcaption>Main Menu</figcaption>
+</figure>
+
+<figure>
+	<img src="resources/seed-prompt.png" alt="Seed Prompt"/>
+	<figcaption>Seed Prompt</figcaption>
+</figure>
+
+<figure>
+	<img src="resources/begin-level.png" alt="Begin the Level"/>
+	<figcaption>Begin the Level</figcaption>
+</figure>
+
+<figure>
+	<img src="resources/four-items.png" alt="Collected Items"/>
+	<figcaption>Collecting Items</figcaption>
+</figure>
 
 ### Bear Maps - Java
 I worked with real-world mapping data to complete the back end of a map application based off of Google Maps. The application supports scrolling, searching, and routing for locations in Berkeley.  
