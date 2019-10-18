@@ -30,14 +30,6 @@ Because of concerns over plagarism, I am unable to post the code for these proje
 ### Database Systems - Java, B+ trees
 Over the course of the semester, I have been implementing a database system that will be able to support executing simple transactions in series. I've finished implementing a B+ tree index and efficient join algorithms (e.g. sort-merge join) so far. The next steps are query optimization, multigranilarity locking for concurrent execution of transactions, and database recovery.
 
-{%
-### Computer Security - Golang
-I am designing and implementing a file sharing system (like Dropbox) that protects user privacy. In particular, user files are always encrypted and authenticated on the server. In addition, users can share files with each other.
-
-I will guarantee confidentiality and integrity where applicable using public key encrpytion (e.g. RSA), digital signatures, hash-based message authentication code (HMAC), and symmetric key encryption.
-Project spec [here](https://cs161.org/assets/projects/2/project2-problems.pdf).
-%}
-
 ## Summer 2019
 ### Convolutional Neural Networks - C, optimization, parallelism  
 I applied performance optimization techniques including vectorization using SIMD instructions and parallelism with OpenMP to achieve a 16-times speed up in image classification tasks.  
@@ -58,13 +50,13 @@ I designed and implemented a single-player 2D tile-based game where the objectiv
 This project helped introduce me to project development cycles.
 Project spec [here](https://sp18.datastructur.es/materials/proj/proj2/proj2).  
 
-![Main Menu](resources/main-menu.png){:class="img-responsive"}
+![Main Menu](assets/images/main-menu.png)Main Menu
 
-![Seed Prompt]({{site.url}}{{site.baseurl}}/resources/seed-prompt.png)
+![Seed Prompt](assets/images/seed-prompt.png)Seed Prompt
 
-![Begin the Level]({{site.url}}{{site.baseurl}}/resources/begin-level.png)
+![Begin the Level](assets/images/begin-level.png)Begin the Level
 
-![Collected Items]({{site.url}}{{site.baseurl}}/resources/four-items.png)
+![Collected Items](assets/images/four-items.png)Collected Enough Items
 
 ### Bear Maps - Java
 I worked with real-world mapping data to complete the back end of a map application based off of Google Maps. The application supports scrolling, searching, and routing for locations in Berkeley.  
