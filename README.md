@@ -11,7 +11,8 @@ I am currently working on deploying two more pip packages for their speech-to-te
 
 ## Fall 2019
 ### Alexa Skills - JavaScript, AWS Lambda
-I am currently developing a trivia based Alexa skill called MAMAMOO Trivia. Upon opening MAMAMAOO Trivia, Alexa asks the player multiple choice questions and the player responds with the number of their answer choice.
+I created a trivia based Alexa skill called MAMAMOO Trivia. MAMAMOO is a South Korean kpop girl group. Upon opening MAMAMAOO Trivia, Alexa plays MAMAMOO's greeting. Then, Alexa asks the player multiple choice questions and the player responds with the number of their answer choice. Alexa will also exit the game playing MAMAMOO's greeting.
+Check it out [here](https://tinyurl.com/mamamootrivia)
 
 I am also developing a trivia based Alexa skill called Protobowl. Quiz Bowl competitors will be able to use this Alexa skill to test their knowledge in the 7 official Quiz Bowl categories: philosophy, social sciences, religion, history, literature, geography, mythology, fine arts, and science. The game will launch and prompt the player for a category. After choosing a category, the player will be able to answer questions taken from past Quiz Bowl tournaments.
 
@@ -45,7 +46,7 @@ I trained and implemented a logistic regression classification model to detect a
 
 ## Spring 2018
 ### Explorable Worlds Game - Java
-I designed and implemented a single-player 2D tile-based game where the objective is to collect all the items to increase the player's sight in order to advance to the next level. I used a pseudo-random world generation algorithm to create a new map for every user input string. I implemented loading and saving gameplay and keyboard navigation (using AWDS) using StdDraw Princeton libraries.
+I designed and implemented a single-player 2D tile-based game where the objective is to collect all the items to increase the player's sight in order to finish the level. I used a pseudo-random world generation algorithm to create a new map for every user input string. I implemented loading and saving gameplay and keyboard navigation (using AWDS) using StdDraw Princeton libraries.
 
 This project helped introduce me to project development cycles.
 Project spec [here](https://sp18.datastructur.es/materials/proj/proj2/proj2).  
