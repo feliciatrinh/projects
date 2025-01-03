@@ -4,7 +4,7 @@ https://feliciatrinh.github.io/projects/
 
 ## 2025
 
-### Subscriptions - Flask, Python, SQLite, HTML
+### Subscriptions - Flask, Python, SQLAlchemy, SQLite, HTML
 
 [GitHub Repo](https://github.com/feliciatrinh/subscriptions/tree/main)
 
