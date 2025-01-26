@@ -4,12 +4,6 @@ https://feliciatrinh.github.io/projects/
 
 ## 2025
 
-### Data Engineering Zoomcamp
-
-Final project: TBD
-
-Daily diaries: TBD
-
 ### Subscriptions - Flask, Python, SQLAlchemy, SQLite, HTML
 
 [GitHub Repo](https://github.com/feliciatrinh/subscriptions/tree/main)
